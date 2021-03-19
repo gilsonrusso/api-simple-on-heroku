@@ -1,12 +1,12 @@
 {
   "name": "api-simple-on-heroku",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/gilsonrusso/api-simple-on-heroku.git",
   "author": "gilsonrusso <gilsonrusso@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
